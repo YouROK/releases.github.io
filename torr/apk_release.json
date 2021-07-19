@@ -1,5 +1,11 @@
 [
   {
+    "version": "MatriX.107",
+    "versionInt": 107,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.107.Client/TorrServe_MatriX.107.Client-release.apk",
+    "desc": "- Изменения в настройках\n- Адаптация приложения к разным серверам\n- Капелюшечку изменен интерфейс\n\nСпасибо @tsynik"
+  },
+  {
     "version": "MatriX.106",
     "versionInt": 106,
     "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.106.Client/TorrServe_MatriX.106.Client-release.apk",
