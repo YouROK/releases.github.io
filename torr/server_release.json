@@ -1,7 +1,7 @@
 {
   "version": "MatriX.101",
   "links": {
-    "android-arm64": "https://github.com/YouROK/TorrServer/releases/download/MatriX.101/TorrServer-linux-arm64",
+    "android-arm64": "https://github.com/YouROK/TorrServer/releases/download/MatriX.101/TorrServer-android-arm64",
     "android-arm7": "https://github.com/YouROK/TorrServer/releases/download/MatriX.101/TorrServer-linux-arm7",
     "android-386": "https://github.com/YouROK/TorrServer/releases/download/MatriX.101/TorrServer-android-386",
     "android-amd64": "https://github.com/YouROK/TorrServer/releases/download/MatriX.101/TorrServer-android-amd64",
