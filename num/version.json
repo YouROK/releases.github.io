@@ -1,5 +1,11 @@
 [
   {
+    "version": "1.0.76",
+    "versionInt": 76,
+    "link": "https://github.com/YouROK/releases/releases/download/1.0.76/NUM_1.0.76-release.apk",
+    "desc": "- Исправления полноэкранной навигации и отображения для одного ряда\n- Исправления анимации\n- Добавлен вид 3 в ряд\n- Добавление глюков\n- Исправление поиска\n\nСпасибо @tsynik"
+  },
+  {
     "version": "1.0.75",
     "versionInt": 75,
     "link": "https://github.com/YouROK/releases/releases/download/1.0.75/NUM_1.0.75-release.apk",
