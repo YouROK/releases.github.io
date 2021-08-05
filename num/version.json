@@ -1,5 +1,11 @@
 [
   {
+    "version": "1.0.77",
+    "versionInt": 77,
+    "link": "https://github.com/YouROK/releases/releases/download/1.0.77/NUM_1.0.77-release.apk",
+    "desc": "- Разделены мультфильмы и мультсериалы\n- Добавлены фильтры для фильмов и мультфильмов в новинках, по качеству видео\n- Сделан вывод простого списка торрентов, включается в настройках\n- Переделаны немного настройки\n- Баги никуда не делись, а только добавились\n\nСпасибо @tsynik"
+  },
+  {
     "version": "1.0.76",
     "versionInt": 76,
     "link": "https://github.com/YouROK/releases/releases/download/1.0.76/NUM_1.0.76-release.apk",
