@@ -1,5 +1,11 @@
 [
   {
+    "version": "1.0.78",
+    "versionInt": 78,
+    "link": "https://github.com/YouROK/releases/releases/download/1.0.78/NUM_1.0.78-release.apk",
+    "desc": "- Исправления вида в 1 ряд\n- Исправление категорий фильтра Мой выбор и разделов рекомендаций\n- Исправления навигации кнопками ТВ-пульта\n- Фикс настроек при смене темы\n- Изменения в интерфейсе\n- Исправление багов, надеюсь всех\n- Что-то еще, наверно...\n\nСпасибо @tsynik"
+  },
+  {
     "version": "1.0.77",
     "versionInt": 77,
     "link": "https://github.com/YouROK/releases/releases/download/1.0.77/NUM_1.0.77-release.apk",
