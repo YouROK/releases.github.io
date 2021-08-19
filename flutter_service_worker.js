@@ -4,7 +4,7 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "assets/assets/images/youtube.jpg": "e2ddfee11ae7edcae257da47f3a78a70",
-"assets/assets/images/emptyposter.png": "0a54be29150d66b78fb9130fcab087d6",
+"assets/assets/images/emptyposter.png": "8906ad1e09564493682298142e5e7b6f",
 "assets/assets/images/backdrop.png": "0cb1709ab5b12afacf8a112b4c8823b9",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/NOTICES": "6e2d77b7f81e22be9a816e22abf291d8",
@@ -21,9 +21,9 @@ const RESOURCES = {
 "icons/android-chrome-512x512.png": "a71640e74976c7e1c68a5bd2e2d300c6",
 "version.json": "b71b1f968d1ccd1b5758a08055f7701b",
 "browserconfig.xml": "d2c3ec839559c9b7c7638c378d45bca5",
-"main.dart.js": "eecd5528cc13b7bd9b836ee8959f9c7e",
-"index.html": "1893c645eb8ff78bd624d756cce501cc",
-"/": "1893c645eb8ff78bd624d756cce501cc"
+"main.dart.js": "db2deabb796a1bbf9a243ff8afddc18c",
+"index.html": "85850ef4873c0df4cd90577474c0948c",
+"/": "85850ef4873c0df4cd90577474c0948c"
 };
 
 // The application shell files that are downloaded before a service worker can
