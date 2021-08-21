@@ -1,5 +1,11 @@
 [
   {
+    "version": "1.0.79",
+    "versionInt": 79,
+    "link": "https://github.com/YouROK/releases/releases/download/1.0.79/NUM_1.0.79-release.apk",
+    "desc": "- Исправлен поиск мегапир\n\nСпасибо @tsynik"
+  },
+  {
     "version": "1.0.78",
     "versionInt": 78,
     "link": "https://github.com/YouROK/releases/releases/download/1.0.78/NUM_1.0.78-release.apk",
