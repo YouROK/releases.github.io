@@ -1,0 +1,720 @@
+{
+	"update": {
+		"title": "Technozon Installer",
+		"description": "Обновление технозон инсталлера",
+		"url": "http://tecnozon.h1n.ru/TechnozonInstaller_1.05-release.apk",
+		"version": 5,
+		"app_review": "https://www.youtube.com/watch?v=R9zND1nZC6A"
+	},
+	"links": [{
+			"title": "NUM релизы",
+			"description": "Релизы фильмов/4К, сериалов, мультиков и тд.",
+			"url": "http://releases.yourok.ru/",
+			"app_review": "https://www.youtube.com/watch?v=Y1EEaw7nepA",
+			"category": "Полезные ссылки"
+		},
+		{
+			"title": "TOX1 Купить",
+			"description": "Призтавка из топ 50$",
+			"url": "https://s.click.aliexpress.com/e/_A9e3FG",
+			"app_review": "https://www.youtube.com/watch?v=vYR9O8z3iw4",
+			"category": "Полезные ссылки"
+		},
+		{
+			"title": "PLAYSTATION 5 БЕСПЛАТНО + 2 UGOOS AM7 на 1 апреля",
+			"description": "PLAYSTATION 5 и два крутых ТВ Бокса бесплатно раздаёт в подарок TECHNOZON подписчикам",
+			"url": "https://www.youtube.com/watch?v=-xZwg5cYhVE&t=0s",
+			"app_review": "https://www.youtube.com/watch?v=-xZwg5cYhVE&t=0s",
+			"category": "Полезные ссылки"
+		}
+	],
+	"apps": [{
+			"title": "MEGOGO",
+			"description": "Кинозал+ТВ официальный АТВ клиент для всех боксов. ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://tecnozon.h1n.ru/megogo.apk",
+			"mirror": "https://technozon.s-host.net/megogo.apk",
+			"app_review": "https://youtu.be/cjn37Uf-am0",
+			"category": "Кинозал"
+		},
+		{
+			"title": "MEGOGO НОВЫЙ",
+			"description": "Кинозал+ТВ официальный АТВ клиент для всех боксов. ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://tecnozon.h1n.ru/megogo2.apk",
+			"mirror": "https://technozon.s-host.net/megogo2.apk",
+			"app_review": "https://youtu.be/cjn37Uf-am0",
+			"category": "Кинозал"
+		},
+		{
+			"title": "NUM",
+			"description": "Каталогизатор Фильмов ДЛЯ АНДРОИД ТВ. ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://tecnozon.h1n.ru/NUM.apk",
+			"mirror": "https://technozon.s-host.net/NUM.apk",
+			"app_review": "https://youtu.be/N65SQYBwcHo",
+			"category": "Кинозал"
+		},
+		{
+			"title": "KINOTREND",
+			"description": "Поcледние релизы на торрентах в хорошем качестве. ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://tecnozon.h1n.ru/KinoTrend.apk",
+			"mirror": "https://technozon.s-host.net/KinoTrend.apk",
+			"app_review": "https://youtu.be/5hrrx9A2e8A",
+			"category": "Кинозал"
+		},
+		{
+			"title": "HdVideoBox",
+			"description": "Каталогизатор Фильмов. ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://tecnozon.h1n.ru/hdbox.apk",
+			"mirror": "https://technozon.s-host.net/hdbox.apk",
+			"app_review": "https://youtu.be/zKNnC5_3BPQ",
+			"category": "Кинозал"
+		},
+		{
+			"title": "LazyMedia Deluxe",
+			"description": "Каталогизатор Фильмов. ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://sites.google.com/site/lazycatsoft/downloads/LazyMediaDeluxe.apk",
+			"app_review": "https://youtu.be/y9DDntxaUzo",
+			"category": "Кинозал"
+		},
+		{
+			"title": "ONFLX",
+			"description": "Онлайн кинотеатр для тв боксов",
+			"url": "https://tecnozon.h1n.ru/onflx.apk",
+			"mirror": "https://technozon.s-host.net/onflx.apk",
+			"category": "Кинозал"
+		},
+		{
+			"title": "VIEWBOX",
+			"description": "Онлайн кинотеатр для тв боксов",
+			"url": "https://tecnozon.h1n.ru/viewbox.apk",
+			"mirror": "https://technozon.s-host.net/viewbox.apk",
+			"app_review": "https://youtu.be/W8B0fJaaIbo",
+			"category": "Кинозал"
+		},
+		{
+			"title": "ZONA",
+			"description": "Онлайн кинотеатр для тв боксов",
+			"url": "https://tecnozon.h1n.ru/zona.apk",
+			"mirror": "https://technozon.s-host.net/zona.apk",
+			"app_review": "https://youtu.be/SbovnCpBsOw",
+			"category": "Кинозал"
+		},
+		{
+			"title": "NETFLIX",
+			"description": "Кинозал+ТВ официальный АТВ клиент для всех боксов. ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://tecnozon.h1n.ru/netflix.apk",
+			"mirror": "https://technozon.s-host.net/netflix.apk",
+			"app_review": "https://www.youtube.com/watch?v=Y1EEaw7nepA",
+			"category": "Кинозал"
+		},
+		{
+			"title": "НЦР (ТОРРЕНТЫ ОНЛАЙН)",
+			"description": "Поcледние релизы на торрентах в хорошем качестве. ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://tecnozon.h1n.ru/ncr.apk",
+			"mirror": "https://technozon.s-host.net/ncr.apk",
+			"app_review": "https://youtu.be/NXcT_x-aVuU",
+			"category": "Кинозал"
+		},
+		{
+			"title": "LOSTFILM",
+			"description": "Андроид клиент для одноименного сервиса. ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://tecnozon.h1n.ru/LostFilm.apk",
+			"mirror": "https://technozon.s-host.net/LostFilm.apk",
+			"app_review": "https://youtu.be/iBOJNAMQf_4",
+			"category": "Кинозал"
+		},
+		{
+			"title": "TikTok Android TV",
+			"description": "Популярная Видео платформа ТИК ТОК",
+			"url": "https://tecnozon.h1n.ru/tiktoktv.apk",
+			"mirror": "https://technozon.s-host.net/tiktoktv.apk",
+			"app_review": "https://youtu.be/1HPICMnHC5w",
+			"category": "Соцмедиа"
+		},
+		{
+			"title": "FaceBook Android TV",
+			"description": "Популярная социальная сеть на тв боксах",
+			"url": "https://tecnozon.h1n.ru/facebooktv.apk",
+			"mirror": "https://technozon.s-host.net/facebooktv.apk",
+			"category": "Соцмедиа"
+		},
+		{
+			"title": "OKKO",
+			"description": "Okko фильмы HD",
+			"url": "https://tecnozon.h1n.ru/okko.apk",
+			"mirror": "https://technozon.s-host.net/okko.apk",
+			"category": "Кинозал"
+		},
+		{
+			"title": "IVI",
+			"description": "Домашний кинотетар + Каналы (платное). ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://tecnozon.h1n.ru/ivi.apk",
+			"mirror": "https://technozon.s-host.net/ivi.apk",
+			"app_review": "https://youtu.be/cjn37Uf-am0",
+			"category": "Кинозал"
+		},
+		{
+			"title": "TorrServe MATRIX",
+			"description": "Основная утилита для просмотра торрентов онлайн до 100 гигабайт. ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://tecnozon.h1n.ru/torrservematrix.apk",
+			"mirror": "https://technozon.s-host.net/torrservematrix.apk",
+			"app_review": "https://www.youtube.com/watch?v=Y1EEaw7nepA",
+			"category": "Утилиты"
+		},
+		{
+			"title": "AIDA 64",
+			"description": "Основная утилита для просмотра системной информации",
+			"url": "https://tecnozon.h1n.ru/aida64.apk",
+			"mirror": "https://technozon.s-host.net/aida64",
+			"category": "Утилиты"
+		},
+		{
+			"title": "TorrServe старый",
+			"description": "Основная утилита для просмотра торрентов онлайн до 100 гигабайт. ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://tecnozon.h1n.ru/TorrServe.apk",
+			"mirror": "https://technozon.s-host.net/TorrServe.apk",
+			"app_review": "https://youtu.be/nEai8aSemZQ",
+			"category": "Утилиты"
+		},
+		{
+			"title": "SD Maid",
+			"description": "Утилита для очистки памяти ТВ БОКСА. ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://tecnozon.h1n.ru/sdmaid.apk",
+			"mirror": "https://technozon.s-host.net/sdmaid.apk",
+			"app_review": "https://youtu.be/BjTEVjXormM",
+			"category": "Утилиты"
+		},
+		{
+			"title": "WAKELOCK",
+			"description": "Решение сна на тв боксах. Отвал сети и пультов. Вкл. 4й пункт. ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://tecnozon.h1n.ru/wakelock.apk",
+			"mirror": "https://technozon.s-host.net/wakelock.apk",
+			"app_review": "https://youtu.be/_otlVvbObf0",
+			"category": "Утилиты"
+		},
+		{
+			"title": "Transdroid",
+			"description": "Утилита для управления торрент качалками. ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://tecnozon.h1n.ru/transdroid.apk",
+			"mirror": "https://technozon.s-host.net/transdroid.apk",
+			"app_review": "https://youtu.be/31k6mi4NhN0",
+			"category": "Утилиты"
+		},
+		{
+			"title": "SmartTubeNext",
+			"description": "Cмотрим Ютуб с HDR и АФР. ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://github.com/yuliskov/SmartYouTubeTV/releases/download/beta/smarttube_beta.apk",
+			"app_review": "https://youtu.be/8xNVCbsxtD0",
+			"category": "YouTube"
+		},
+
+
+		{
+			"title": "NewPipe",
+			"description": "Youtube без рекламы и без привязки к гугл аккаунту. ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://tecnozon.h1n.ru/NewPipe.apk",
+			"mirror": "https://technozon.s-host.net/NewPipe.apk",
+			"app_review": "https://youtu.be/5VFy_u6YGS0",
+			"category": "YouTube"
+		},
+
+
+
+		{
+			"title": "YouTube Vanced",
+			"description": "Знаменитый клиент Youtube Без рекламы. ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://tecnozon.h1n.ru/manager.apk",
+			"mirror": "https://technozon.s-host.net/manager.apk",
+			"app_review": "https://youtu.be/5VFy_u6YGS0",
+			"category": "YouTube"
+		},
+
+
+
+		{
+			"title": "TVBRO",
+			"description": "Браузер для тв боксов",
+			"url": "https://tecnozon.h1n.ru/tvbro.apk",
+			"mirror": "https://technozon.s-host.net/tvbro.apk",
+			"category": "Браузер"
+		},
+		{
+			"title": "SideLoad Launcher",
+			"description": "Лончер для АТВ доступа к скрытым приложениям. ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://tecnozon.h1n.ru/sideload.apk",
+			"mirror": "https://technozon.s-host.net/sideload.apk",
+			"app_review": "https://youtu.be/JHOWY9RNa4E",
+			"category": "Лончеры"
+		},
+		{
+			"title": "HALauncher",
+			"description": "Лончер под АТВ для вывода приложений в каналы. ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://tecnozon.h1n.ru/halauncher.apk",
+			"mirror": "https://technozon.s-host.net/halauncher.apk",
+			"app_review": "https://youtu.be/JHOWY9RNa4E",
+			"category": "Лончеры"
+		},
+		{
+			"title": "TVAppRepo",
+			"description": "Добавление ярлыков скрытых приложений только АТВ. ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://tecnozon.h1n.ru/TvAppRepo.apk",
+			"mirror": "https://technozon.s-host.net/TvAppRepo.apk",
+			"app_review": "https://youtu.be/JHOWY9RNa4E",
+			"category": "Утилиты"
+		},
+		{
+			"title": "Aptoid",
+			"description": "Полная версия стороннего маркета. ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://tecnozon.h1n.ru/aptoide-latest.apk",
+			"mirror": "https://technozon.s-host.net/aptoide-latest.apk",
+			"app_review": "https://youtu.be/eS9_obTfPRU",
+			"category": "Утилиты"
+		},
+		{
+			"title": "Aptoid TV",
+			"description": "ТВ версия стороннего маркета. ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://tecnozon.h1n.ru/AptoideTV.apk",
+			"mirror": "https://technozon.s-host.net/AptoideTV.apk",
+			"app_review": "https://youtu.be/eS9_obTfPRU",
+			"category": "Утилиты"
+		},
+		{
+			"title": "Iptv Player TELEVIZO",
+			"description": "Знаменитый плеер IPTV для всех устройств. ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://tecnozon.h1n.ru/televizo-latest.apk",
+			"mirror": "https://technozon.s-host.net/televizo-latest.apk",
+			"app_review": "https://youtu.be/YjDm-aQUksc",
+			"category": "IPTV"
+		},
+		{
+			"title": "OMEGA TV ДЛЯ УКРАИНЫ",
+			"description": "МЕСЯЦ БЕСПЛАТНО ПО ПРОМОКОДУ TECHNOZON. ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://tecnozon.h1n.ru/omegatv.apk",
+			"mirror": "https://technozon.s-host.net/omegatv.apk",
+			"app_review": "https://youtu.be/x6zG4yV8SA8",
+			"category": "IPTV"
+		},
+
+		{
+			"title": "OTT PLAYER",
+			"description": "Хороший плеер IPTV для тв приставок. ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://tecnozon.h1n.ru/ottplayer.apk",
+			"mirror": "https://technozon.s-host.net/ottplayer.apk",
+			"app_review": "https://youtu.be/tO_EKxFlq3o",
+			"category": "IPTV"
+		},
+		{
+			"title": "LimeHD TV",
+			"description": "Официальное приложение с ТВ",
+			"url": "https://tecnozon.h1n.ru/limehd.apk",
+			"mirror": "https://technozon.s-host.net/limehd.apk",
+			"category": "IPTV"
+		},
+		{
+			"title": "Ланет",
+			"description": "Официальное ТВ",
+			"url": "https://tecnozon.h1n.ru/lanet.apk",
+			"mirror": "https://technozon.s-host.net/lanet.apk",
+			"category": "IPTV"
+		},
+		{
+			"title": "SPB TV",
+			"description": "Официальный клиент СПБ ТВ",
+			"url": "https://tecnozon.h1n.ru/SPBTV.apk",
+			"mirror": "https://technozon.s-host.net/SPBTV.apk",
+			"category": "IPTV"
+		},
+		{
+			"title": "TIVIMATE",
+			"description": "Популярный IPTV плеер с АФР. ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://tecnozon.h1n.ru/tivimate.apk",
+			"mirror": "https://technozon.s-host.net/tivimate.apk",
+			"app_review": "https://youtu.be/2ljyftU3sNs",
+			"category": "IPTV"
+		},
+		{
+			"title": "TVZAVR",
+			"description": "Официальный клиент ТВ и Кинозал",
+			"url": "https://tecnozon.h1n.ru/tvzavr.apk",
+			"mirror": "https://technozon.s-host.net/tvzavr.apk",
+			"category": "IPTV"
+		},
+		{
+			"title": "GetSee",
+			"description": "Торрент Кино Агрегатор. ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://tecnozon.h1n.ru/GetSee.apk",
+			"mirror": "https://technozon.s-host.net/GetSee.apk",
+			"app_review": "https://youtu.be/hUKuarZ43yg",
+			"category": "Кинозал"
+		},
+		{
+			"title": "HDRezka",
+			"description": "Кино онлайн с одноименного ресурса. ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://tecnozon.h1n.ru/hdrezka.apk",
+			"mirror": "https://technozon.s-host.net/hdrezka.apk",
+			"app_review": "https://youtu.be/fSDgJ6V_6hU",
+			"category": "Кинозал"
+		},
+		{
+			"title": "VPLAY для Android TV",
+			"description": "Крутой кинотеатр с торрентами. ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://tecnozon.h1n.ru/vplay.apk",
+			"mirror": "https://technozon.s-host.net/vplay.apk",
+			"app_review": "https://youtu.be/dia5eP3Rxs4",
+			"category": "Кинозал"
+		},
+		{
+			"title": "SeasonHit",
+			"description": "Сериалы онлайн (для России нужен VPN). ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://tecnozon.h1n.ru/Seasonhit.apk",
+			"mirror": "https://technozon.s-host.net/Seasonhit.apk",
+			"app_review": "https://youtu.be/XcwUDy57hJw",
+			"category": "Кинозал"
+		},
+		{
+			"title": "OpenSeason",
+			"description": "Сериалы онлайн. ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://tecnozon.h1n.ru/openseason.apk",
+			"mirror": "https://technozon.s-host.net/openseason.apk",
+			"app_review": "https://youtu.be/GnX6DrzlgRE",
+			"category": "Кинозал"
+		},
+		{
+			"title": "Filmix",
+			"description": "Клиент одноименного сервиса",
+			"url": "https://tecnozon.h1n.ru/filmix.apk",
+			"mirror": "https://technozon.s-host.net/filmix.apk",
+			"category": "Кинозал"
+		},
+		{
+			"title": "KINOHD",
+			"description": "Фильмовый агрегатор",
+			"url": "https://tecnozon.h1n.ru/kinohd.apk",
+			"mirror": "https://technozon.s-host.net/kinohd.apk",
+			"category": "Кинозал"
+		},
+		{
+			"title": "YouTube ATV",
+			"description": "Клиент Ютуб из Андроид ТВ. ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://tecnozon.h1n.ru/youtubeATV.apk",
+			"mirror": "https://technozon.s-host.net/youtubeATV.apk",
+			"app_review": "https://youtu.be/4M6f8tFBE6I",
+			"category": "YouTube"
+		},
+		{
+			"title": "LAZY IPTV",
+			"description": "Отличный iptv плеер",
+			"url": "https://tecnozon.h1n.ru/LazyIPTV.apk",
+			"mirror": "https://technozon.s-host.net/LazyIPTV.apk",
+			"category": "IPTV"
+		},
+		{
+			"title": "Синий IPTV",
+			"description": "Простой и крутой IPTV плеер",
+			"url": "https://tecnozon.h1n.ru/iptvblue.apk",
+			"mirror": "https://technozon.s-host.net/iptvblue.apk",
+			"category": "IPTV"
+		},
+		{
+			"title": "OTT Navigator",
+			"description": "",
+			"url": "https://tecnozon.h1n.ru/OTTNavigator.apk",
+			"mirror": "https://technozon.s-host.net/OTTNavigator.apk",
+			"category": "IPTV"
+		},
+		{
+			"title": "TVIrl Iptv",
+			"description": "Плеер для АНДРОИД ТВ через каналы АТВ. ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://tecnozon.h1n.ru/tvirl.apk",
+			"mirror": "https://technozon.s-host.net/tvirl.apk",
+			"app_review": "https://youtu.be/p-xNR4nzpM4",
+			"category": "IPTV"
+		},
+		{
+			"title": "HalvaTV Player Plus",
+			"description": "IPTV плеер. ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://tecnozon.h1n.ru/Halva.apk",
+			"mirror": "https://technozon.s-host.net/Halva.apk",
+			"app_review": "https://youtu.be/oz7UEnRUMp8",
+			"category": "IPTV"
+		},
+		{
+			"title": "Perfect Player",
+			"description": "IPTV Клиент",
+			"url": "https://tecnozon.h1n.ru/PerfectPlayer.apk",
+			"mirror": "https://technozon.s-host.net/PerfectPlayer.apk",
+			"category": "IPTV"
+		},
+		{
+			"title": "TVGuide",
+			"description": "",
+			"url": "https://tecnozon.h1n.ru/TVGuide.apk",
+			"mirror": "https://technozon.s-host.net/TVGuide.apk",
+			"category": "IPTV"
+		},
+		{
+			"title": "TorrentStream Controller",
+			"description": "Для работы нужен ACE Stream",
+			"url": "https://tecnozon.h1n.ru/torrentstream.apk",
+			"mirror": "https://technozon.s-host.net/torrentstream.apk",
+			"category": "Утилиты"
+		},
+		{
+			"title": "ProgTV",
+			"description": "",
+			"url": "https://tecnozon.h1n.ru/progtv.apk",
+			"mirror": "https://technozon.s-host.net/progtv.apk",
+			"category": "IPTV"
+		},
+		{
+			"title": "Google Chrome",
+			"description": "Браузер на АТВ не отображается (используем APPTV REPO)",
+			"url": "https://tecnozon.h1n.ru/chrome.apk",
+			"mirror": "https://technozon.s-host.net/chrome.apk",
+			"category": "Браузер"
+		},
+		{
+			"title": "Puffin TV",
+			"description": "Браузер для ТВ Боксов",
+			"url": "https://tecnozon.h1n.ru/Puffintv.apk",
+			"mirror": "https://technozon.s-host.net/Puffintv.apk",
+			"category": "Браузер"
+		},
+		{
+			"title": "MX Player",
+			"description": "Популярный видео плеер",
+			"url": "https://tecnozon.h1n.ru/mxplayer.apk",
+			"mirror": "https://technozon.s-host.net/mxplayer.apk",
+			"category": "Плеер"
+		},
+		{
+			"title": "MKV EXOPLAYER DOLBY VISION",
+			"description": "Плеер для тв боксов с DV. ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://tecnozon.h1n.ru/EXOPLAYERMKV.apk",
+			"mirror": "https://technozon.s-host.net/EXOPLAYERMKV.apk",
+			"app_review": "https://youtu.be/ULcH7IG3TG4",
+			"category": "Плеер"
+		},
+		{
+			"title": "VLC",
+			"description": "Популярный видео плеер",
+			"url": "https://tecnozon.h1n.ru/vlc.apk",
+			"mirror": "https://technozon.s-host.net/vlc.apk",
+			"category": "Плеер"
+		},
+		{
+			"title": "Movian",
+			"description": "Неплохой плеер с сетевыми возможностями",
+			"url": "https://tecnozon.h1n.ru/movian.apk",
+			"mirror": "https://technozon.s-host.net/movian.apk",
+			"category": "Плеер"
+		},
+		{
+			"title": "VIMU Player",
+			"description": "Знаменитый плеер для АТВ. ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://tecnozon.h1n.ru/vimu.apk",
+			"mirror": "https://technozon.s-host.net/vimu.apk",
+			"app_review": "https://youtu.be/zqTu_CAJkrs",
+			"category": "Плеер"
+		},
+		{
+			"title": "Fork Player",
+			"description": "Известный плеер",
+			"url": "https://tecnozon.h1n.ru/aForkPlayer.apk",
+			"mirror": "https://technozon.s-host.net/aForkPlayer.apk",
+			"category": "Плеер"
+		},
+		{
+			"title": "KODI 18.x",
+			"description": "Небезызвестный Коди",
+			"url": "https://tecnozon.h1n.ru/kodi2.apk",
+			"mirror": "https://technozon.s-host.net/kodi2.apk",
+			"category": "Плеер"
+		},
+		{
+			"title": "Square Home Launcher",
+			"description": "Популярный лончер. ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://tecnozon.h1n.ru/squarehome.apk",
+			"mirror": "https://technozon.s-host.net/squarehome.apk",
+			"app_review": "https://youtu.be/fEBc9-YNDGM",
+			"category": "Лончеры"
+		},
+		{
+			"title": "Nebula Manager",
+			"description": "Организация канала с приложениями на Андроид ТВ. ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://tecnozon.h1n.ru/nebula.apk",
+			"mirror": "https://technozon.s-host.net/nebula.apk",
+			"app_review": "https://youtu.be/IGZXmkEIPkg",
+			"category": "Лончеры"
+		},
+		{
+			"title": "Live OS Launcher",
+			"description": "Популярный лончер в стиле LeanBack. ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://tecnozon.h1n.ru/LiveOS-v2.5.16.MITV.apk",
+			"mirror": "https://technozon.s-host.net/LiveOS-v2.5.16.MITV.apk",
+			"app_review": "https://youtu.be/L7tPHfROXT0",
+			"category": "Лончеры"
+		},
+		{
+			"title": "LeanbackOnFire Launcher",
+			"description": "Популярный лончер в стиле LeanBack. ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://tecnozon.h1n.ru/LeanbackOnFire.apk",
+			"mirror": "https://technozon.s-host.net/LeanbackOnFire.apk",
+			"app_review": "https://youtu.be/cvuKlZj9inQ",
+			"category": "Лончеры"
+		},
+		{
+			"title": "Launch on Boot",
+			"description": "Автостарт приложений на тв боксе ATV. ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://tecnozon.h1n.ru/launchonboot.apk",
+			"mirror": "https://technozon.s-host.net/launchonboot.apk",
+			"app_review": "https://youtu.be/871I6v68zA0",
+			"category": "Утилиты"
+		},
+		{
+			"title": "Autostart No Root",
+			"description": "Автостарт приложений на тв боксе. ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://tecnozon.h1n.ru/autostartnoroot.apk",
+			"mirror": "https://technozon.s-host.net/autostartnoroot.apk",
+			"app_review": "https://youtu.be/871I6v68zA0",
+			"category": "Утилиты"
+		},
+		{
+			"title": "Gamepad Panda",
+			"description": "любые игры на геймпаде. ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://tecnozon.h1n.ru/Panda_Gamepad_Pro_1.1.6(116)_mod1_LP.crk.LVL.Extreme.apk",
+			"mirror": "https://technozon.s-host.net/Panda_Gamepad_Pro_1.1.6(116)_mod1_LP.crk.LVL.Extreme.apk",
+			"app_review": "https://youtu.be/YWU5FoMxqEQ",
+			"category": "Утилиты"
+		},
+		{
+			"title": "Black Mart",
+			"description": "Альтернативный маркет. ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://tecnozon.h1n.ru/BlackmartLite0.99.2.115B.apk",
+			"mirror": "https://technozon.s-host.net/BlackmartLite0.99.2.115B.apk",
+			"app_review": "https://youtu.be/fOYTqMVi5UA",
+			"category": "Утилиты"
+		},
+		{
+			"title": "ACEStream Media",
+			"description": "Чистый андроид",
+			"url": "https://tecnozon.h1n.ru/AceStreamMedia.apk",
+			"mirror": "https://technozon.s-host.net/AceStreamMedia.apk",
+			"category": "Утилиты"
+		},
+		{
+			"title": "ACEStream media ATV",
+			"description": "АНДРОИД ТВ!!!",
+			"url": "https://tecnozon.h1n.ru/AceStreamMediaATV.apk",
+			"mirror": "https://technozon.s-host.net/AceStreamMediaATV.apk",
+			"category": "Утилиты"
+		},
+		{
+			"title": "ESExplorer",
+			"description": "Крутой проводник",
+			"url": "https://tecnozon.h1n.ru/esexplorer.apk",
+			"mirror": "https://technozon.s-host.net/esexplorer.apk",
+			"category": "Утилиты"
+		},
+		{
+			"title": "Xplore",
+			"description": "Крутой проводник",
+			"url": "https://tecnozon.h1n.ru/xplore.apk",
+			"mirror": "https://technozon.s-host.net/xplore.apk",
+			"category": "Утилиты"
+		},
+		{
+			"title": "Total Commander",
+			"description": "Крутой проводник в старом стиле Тотала",
+			"url": "https://tecnozon.h1n.ru/totalcommander.apk",
+			"mirror": "https://technozon.s-host.net/totalcommander.apk",
+			"category": "Утилиты"
+		},
+		{
+			"title": "NVIDIA Gefore Now",
+			"description": "Geforce Now Для Андроид. ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://tecnozon.h1n.ru/com.nvidia.apk",
+			"mirror": "https://technozon.s-host.net/com.nvidia.apk",
+			"app_review": "https://youtu.be/PgUNKbKZinY",
+			"category": "Утилиты"
+		},
+		{
+			"title": "Easy Fire Tools",
+			"description": "Установка приложений в ТВ бокс по Wi-Fi. ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://tecnozon.h1n.ru/EasyFireTools.com.apk",
+			"mirror": "https://technozon.s-host.net/EasyFireTools.com.apk",
+			"app_review": "https://youtu.be/1eIy_YBm2OI",
+			"category": "Утилиты"
+		},
+
+		{
+			"title": "AFRD",
+			"description": "Автофреймрейт для процессоров AMLogic (ROOT). ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://tecnozon.h1n.ru/aftd.apk",
+			"mirror": "https://technozon.s-host.net/aftd.apk",
+			"app_review": "https://youtu.be/E9XGvPaMeEQ",
+			"category": "Утилиты"
+		},
+		{
+			"title": "LeanKey",
+			"description": "Клавиатура. Решает проблему пропадания клавиатур в АТВ",
+			"url": "https://tecnozon.h1n.ru/LeanKeyKeyboardPro_v4.3.30_r.apk",
+			"mirror": "https://technozon.s-host.net/LeanKeyKeyboardPro_v4.3.30_r.apk",
+			"category": "Утилиты"
+		},
+		{
+			"title": "ChromeCast",
+			"description": "ChromeCast ресивер для любого тв бокса. ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://tecnozon.h1n.ru/CastReceiver.133t.apk",
+			"mirror": "https://technozon.s-host.net/CastReceiver.133t.apk",
+			"app_review": "https://youtu.be/Ng2E3PecSs8",
+			"category": "Утилиты"
+		},
+		{
+			"title": "Навигационная панель",
+			"description": "Навигационная панель (3 кнопки) Для боксов у которых ее нет. ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://tecnozon.h1n.ru/navbar.apk",
+			"mirror": "https://technozon.s-host.net/navbar.apk",
+			"app_review": "https://youtu.be/KH5vUFjmX9s",
+			"category": "Утилиты"
+		},
+		{
+			"title": "Шторка уведомлений",
+			"description": "Шторка уведомлений для боксов где она отключена. ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://tecnozon.h1n.ru/shtorka.apk",
+			"mirror": "https://technozon.s-host.net/shtorka.apk",
+			"app_review": "https://youtu.be/KH5vUFjmX9s",
+			"category": "Утилиты"
+		},
+		{
+			"title": "Sleep Timer",
+			"description": "Sleep Timer для ТВ БОКСА. ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://tecnozon.h1n.ru/SleepTVTimer.apk",
+			"mirror": "https://technozon.s-host.net/SleepTVTimer.apk",
+			"app_review": "https://youtu.be/VwP83Odsp1I",
+			"category": "Утилиты"
+		},
+		{
+			"title": "CPU тротлинг тест",
+			"description": "Проверка тротлинга Процессора и нагрева. ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://tecnozon.h1n.ru/cputrotl.apk",
+			"mirror": "https://technozon.s-host.net/cputrotl.apk",
+			"app_review": "https://youtu.be/XJY_3fw7iyg",
+			"category": "Утилиты"
+		},
+		{
+			"title": "SpeedTest",
+			"description": "Тест скорости сети",
+			"url": "https://tecnozon.h1n.ru/speedtest.apk",
+			"mirror": "https://technozon.s-host.net/speedtest.apk",
+			"category": "Утилиты"
+		},
+		{
+			"title": "CPU Monitor",
+			"description": "Мониторинг температуры. ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://tecnozon.h1n.ru/cpumonitor.apk",
+			"mirror": "https://technozon.s-host.net/cpumonitor.apk",
+			"app_review": "https://youtu.be/XJY_3fw7iyg",
+			"category": "Утилиты"
+		}
+	]
+}
