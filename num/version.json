@@ -1,5 +1,11 @@
 [
   {
+    "version": "1.0.82",
+    "versionInt": 82,
+    "link": "https://github.com/YouROK/releases/releases/download/1.0.82/NUM_1.0.82-release.apk",
+    "desc": "- Исправления в поиске\n- Добавление канала мультсериалов\n\nСпасибо @tsynik"
+  },
+  {
     "version": "1.0.81",
     "versionInt": 81,
     "link": "https://github.com/YouROK/releases/releases/download/1.0.81/NUM_1.0.81-release.apk",
