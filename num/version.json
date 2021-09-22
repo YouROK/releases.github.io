@@ -1,5 +1,11 @@
 [
   {
+    "version": "1.0.83",
+    "versionInt": 83,
+    "link": "https://github.com/YouROK/releases/releases/download/1.0.83/NUM_1.0.83-release.apk",
+    "desc": "- Небольшие изменения в интерфейсе\n- Устранено падение на Андроид 11\n- Добавлен трекер ThePirateBay для англоязычных пользователей\n\nСпасибо @tsynik"
+  },
+  {
     "version": "1.0.82",
     "versionInt": 82,
     "link": "https://github.com/YouROK/releases/releases/download/1.0.82/NUM_1.0.82-release.apk",
